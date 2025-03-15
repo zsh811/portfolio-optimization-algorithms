@@ -2,8 +2,8 @@
 
 ## Authors:
 
-- Amna Bubshait (A00723)
-- Zahra Alshehabi (A00755)
+- Amna Bubshait (A00723).
+- Zahra Alshehabi (A00755).
 
 ## Problem:
 
