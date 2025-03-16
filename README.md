@@ -11,9 +11,7 @@ This assignment explores portfolio optimization using Hill Climbing and Genetic 
 
 ## Dataset:
 
-The primary dataset used is the "S&P 500 Stocks" dataset from Kaggle:
-
-[Dataset URL](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks/data)
+The primary dataset used is the "S&P 500 Stocks" dataset from Kaggle: [Dataset URL](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks/data)
 
 ## Methodology:
 
